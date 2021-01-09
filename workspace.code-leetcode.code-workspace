@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Mac"
+		},
+		{
+			"path": "../../ML/PaddlePaddle"
+		}
+	]
+}

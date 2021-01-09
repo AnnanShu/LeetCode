@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/annanshu/opt/anaconda3/bin/python",
+    "jupyter.notebookFileRoot": "${fileDirname}"
+}
